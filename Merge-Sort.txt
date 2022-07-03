@@ -17,5 +17,4 @@ Answer 1- [16,21,11,8,12,22]
 
 8-11-12-16-21-21
 
-Answer 2- sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlemi ile yapıldığından cevap
-O(n*(logn)) --> O(6*(log6)) olacak.
+Answer 2- Recursive bir fonksiyon olduğu için sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından O(n*(logn)) --> O(6*(log6)) olacaktır.
