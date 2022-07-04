@@ -1,0 +1,15 @@
+/Users/anilduz/Desktop/Pratikler/degiskenler/bin/Debug/net6.0/degiskenler
+/Users/anilduz/Desktop/Pratikler/degiskenler/bin/Debug/net6.0/degiskenler.deps.json
+/Users/anilduz/Desktop/Pratikler/degiskenler/bin/Debug/net6.0/degiskenler.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/degiskenler/bin/Debug/net6.0/degiskenler.dll
+/Users/anilduz/Desktop/Pratikler/degiskenler/bin/Debug/net6.0/degiskenler.pdb
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.dll
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/refint/degiskenler.dll
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.pdb
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/degiskenler.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/degiskenler/obj/Debug/net6.0/ref/degiskenler.dll

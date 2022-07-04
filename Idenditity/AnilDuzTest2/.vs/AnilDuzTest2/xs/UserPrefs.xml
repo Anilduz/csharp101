@@ -1,0 +1,35 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B43D22FF-9761-4BC2-8EE7-005280F3E390}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnilDuzTest2/AppDbContext.cs">
+    <Files>
+      <File FileName="AnilDuzTest2/Program.cs" Line="16" Column="1" />
+      <File FileName="AnilDuzTest2/Entities/Status.cs" />
+      <File FileName="AnilDuzTest2/Entities/User.cs" />
+      <File FileName="AnilDuzTest2/Entities/Book.cs" />
+      <File FileName="AnilDuzTest2/AppDbContext.cs" Line="28" Column="1" />
+      <File FileName="AnilDuzTest2/Entities/Admin.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnilDuzTest2" expanded="True">
+            <Node name="AnilDuzTest2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="AppDbContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnilDuzTest2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

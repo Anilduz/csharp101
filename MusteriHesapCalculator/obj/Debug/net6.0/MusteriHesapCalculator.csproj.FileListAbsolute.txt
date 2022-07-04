@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/bin/Debug/net6.0/MusteriHesapCalculator
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/bin/Debug/net6.0/MusteriHesapCalculator.deps.json
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/bin/Debug/net6.0/MusteriHesapCalculator.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/bin/Debug/net6.0/MusteriHesapCalculator.dll
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.dll
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/refint/MusteriHesapCalculator.dll
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.pdb
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/MusteriHesapCalculator.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/MusteriHesapCalculator/obj/Debug/net6.0/ref/MusteriHesapCalculator.dll

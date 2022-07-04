@@ -1,0 +1,15 @@
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/AgeCalculate.deps.json
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/AgeCalculate.runtimeconfig.json
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/AgeCalculate.runtimeconfig.dev.json
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/AgeCalculate.dll
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/ref/AgeCalculate.dll
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/bin/Debug/net5.0/AgeCalculate.pdb
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.csproj.AssemblyReference.cache
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.AssemblyInfoInputs.cache
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.AssemblyInfo.cs
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.csproj.CoreCompileInputs.cache
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.dll
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/ref/AgeCalculate.dll
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.pdb
+/Users/anilduz/Projects/AgeCalculate/AgeCalculate/obj/Debug/net5.0/AgeCalculate.genruntimeconfig.cache

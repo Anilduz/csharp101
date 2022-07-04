@@ -1,0 +1,15 @@
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/console-programlama/bin/Debug/net6.0/console-programlama
+/Users/anilduz/Desktop/Pratikler/console-programlama/bin/Debug/net6.0/console-programlama.deps.json
+/Users/anilduz/Desktop/Pratikler/console-programlama/bin/Debug/net6.0/console-programlama.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/console-programlama/bin/Debug/net6.0/console-programlama.dll
+/Users/anilduz/Desktop/Pratikler/console-programlama/bin/Debug/net6.0/console-programlama.pdb
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.dll
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/refint/console-programlama.dll
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.pdb
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/console-programlama.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/console-programlama/obj/Debug/net6.0/ref/console-programlama.dll

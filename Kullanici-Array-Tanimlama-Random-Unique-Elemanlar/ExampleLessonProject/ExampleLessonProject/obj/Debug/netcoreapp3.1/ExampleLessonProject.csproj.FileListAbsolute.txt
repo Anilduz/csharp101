@@ -1,0 +1,13 @@
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/bin/Debug/netcoreapp3.1/ExampleLessonProject.deps.json
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/bin/Debug/netcoreapp3.1/ExampleLessonProject.runtimeconfig.json
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/bin/Debug/netcoreapp3.1/ExampleLessonProject.runtimeconfig.dev.json
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/bin/Debug/netcoreapp3.1/ExampleLessonProject.dll
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/bin/Debug/netcoreapp3.1/ExampleLessonProject.pdb
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.csproj.AssemblyReference.cache
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.AssemblyInfoInputs.cache
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.AssemblyInfo.cs
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.csproj.CoreCompileInputs.cache
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.dll
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.pdb
+/Users/anilduz/Projects/ExampleLessonProject/ExampleLessonProject/obj/Debug/netcoreapp3.1/ExampleLessonProject.genruntimeconfig.cache
