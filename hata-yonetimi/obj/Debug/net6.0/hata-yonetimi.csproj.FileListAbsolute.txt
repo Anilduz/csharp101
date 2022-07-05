@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/bin/Debug/net6.0/hata-yonetimi
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/bin/Debug/net6.0/hata-yonetimi.deps.json
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/bin/Debug/net6.0/hata-yonetimi.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/bin/Debug/net6.0/hata-yonetimi.dll
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.dll
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/refint/hata-yonetimi.dll
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.pdb
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/hata-yonetimi.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/hata-yonetimi/obj/Debug/net6.0/ref/hata-yonetimi.dll
