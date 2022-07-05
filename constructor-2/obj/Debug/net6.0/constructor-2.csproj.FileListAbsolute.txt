@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/constructor-2/bin/Debug/net6.0/constructor-2
+/Users/anilduz/Desktop/Pratikler/constructor-2/bin/Debug/net6.0/constructor-2.deps.json
+/Users/anilduz/Desktop/Pratikler/constructor-2/bin/Debug/net6.0/constructor-2.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/constructor-2/bin/Debug/net6.0/constructor-2.dll
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.dll
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/refint/constructor-2.dll
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.pdb
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/constructor-2.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/constructor-2/obj/Debug/net6.0/ref/constructor-2.dll
