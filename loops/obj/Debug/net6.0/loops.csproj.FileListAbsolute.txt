@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/loops/bin/Debug/net6.0/loops
+/Users/anilduz/Desktop/Pratikler/loops/bin/Debug/net6.0/loops.deps.json
+/Users/anilduz/Desktop/Pratikler/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/loops/bin/Debug/net6.0/loops.dll
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.dll
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/refint/loops.dll
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.pdb
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/loops/obj/Debug/net6.0/ref/loops.dll
