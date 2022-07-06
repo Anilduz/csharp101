@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/switch-case/bin/Debug/net6.0/switch-case
+/Users/anilduz/Desktop/Pratikler/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/anilduz/Desktop/Pratikler/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/switch-case/obj/Debug/net6.0/ref/switch-case.dll
