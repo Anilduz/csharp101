@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/metotlar/bin/Debug/net6.0/metotlar
+/Users/anilduz/Desktop/Pratikler/metotlar/bin/Debug/net6.0/metotlar.deps.json
+/Users/anilduz/Desktop/Pratikler/metotlar/bin/Debug/net6.0/metotlar.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/metotlar/bin/Debug/net6.0/metotlar.dll
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.dll
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/refint/metotlar.dll
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.pdb
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/metotlar.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/metotlar/obj/Debug/net6.0/ref/metotlar.dll
