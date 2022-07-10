@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/bin/Debug/net6.0/extension-recursive-metotlar
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/bin/Debug/net6.0/extension-recursive-metotlar.deps.json
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/bin/Debug/net6.0/extension-recursive-metotlar.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/bin/Debug/net6.0/extension-recursive-metotlar.dll
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.dll
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/refint/extension-recursive-metotlar.dll
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.pdb
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/extension-recursive-metotlar.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/extension-recursive-metotlar/obj/Debug/net6.0/ref/extension-recursive-metotlar.dll
