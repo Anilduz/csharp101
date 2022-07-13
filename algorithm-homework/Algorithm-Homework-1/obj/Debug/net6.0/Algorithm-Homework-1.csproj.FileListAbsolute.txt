@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/bin/Debug/net6.0/Algorithm-Homework-1
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/bin/Debug/net6.0/Algorithm-Homework-1.deps.json
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/bin/Debug/net6.0/Algorithm-Homework-1.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/bin/Debug/net6.0/Algorithm-Homework-1.dll
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.dll
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/refint/Algorithm-Homework-1.dll
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.pdb
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/Algorithm-Homework-1.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Algorithm-Homework-1/obj/Debug/net6.0/ref/Algorithm-Homework-1.dll
