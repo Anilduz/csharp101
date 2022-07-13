@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/string-library/bin/Debug/net6.0/string-library
+/Users/anilduz/Desktop/Pratikler/string-library/bin/Debug/net6.0/string-library.deps.json
+/Users/anilduz/Desktop/Pratikler/string-library/bin/Debug/net6.0/string-library.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/string-library/bin/Debug/net6.0/string-library.dll
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.dll
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/refint/string-library.dll
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.pdb
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/string-library.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/string-library/obj/Debug/net6.0/ref/string-library.dll
