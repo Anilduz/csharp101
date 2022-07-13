@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/dictionary/bin/Debug/net6.0/dictionary
+/Users/anilduz/Desktop/Pratikler/dictionary/bin/Debug/net6.0/dictionary.deps.json
+/Users/anilduz/Desktop/Pratikler/dictionary/bin/Debug/net6.0/dictionary.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/dictionary/bin/Debug/net6.0/dictionary.dll
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.dll
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/refint/dictionary.dll
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.pdb
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/dictionary.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/dictionary/obj/Debug/net6.0/ref/dictionary.dll
