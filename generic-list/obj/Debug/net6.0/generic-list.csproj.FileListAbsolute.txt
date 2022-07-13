@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/generic-list/bin/Debug/net6.0/generic-list
+/Users/anilduz/Desktop/Pratikler/generic-list/bin/Debug/net6.0/generic-list.deps.json
+/Users/anilduz/Desktop/Pratikler/generic-list/bin/Debug/net6.0/generic-list.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/generic-list/bin/Debug/net6.0/generic-list.dll
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.dll
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/refint/generic-list.dll
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.pdb
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/generic-list.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/generic-list/obj/Debug/net6.0/ref/generic-list.dll
