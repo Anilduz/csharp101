@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Array-List/bin/Debug/net6.0/Array-List
+/Users/anilduz/Desktop/Pratikler/Array-List/bin/Debug/net6.0/Array-List.deps.json
+/Users/anilduz/Desktop/Pratikler/Array-List/bin/Debug/net6.0/Array-List.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Array-List/bin/Debug/net6.0/Array-List.dll
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.dll
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/refint/Array-List.dll
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.pdb
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/Array-List.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Array-List/obj/Debug/net6.0/ref/Array-List.dll
