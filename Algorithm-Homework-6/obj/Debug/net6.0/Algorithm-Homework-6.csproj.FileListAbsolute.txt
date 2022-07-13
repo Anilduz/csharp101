@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/bin/Debug/net6.0/Algorithm-Homework-6
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/bin/Debug/net6.0/Algorithm-Homework-6.deps.json
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/bin/Debug/net6.0/Algorithm-Homework-6.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/bin/Debug/net6.0/Algorithm-Homework-6.dll
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.dll
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/refint/Algorithm-Homework-6.dll
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.pdb
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/Algorithm-Homework-6.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/algorithm-homework/Algorithm-Homework-6/obj/Debug/net6.0/ref/Algorithm-Homework-6.dll
