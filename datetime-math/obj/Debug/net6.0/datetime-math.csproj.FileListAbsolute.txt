@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/datetime-math/bin/Debug/net6.0/datetime-math
+/Users/anilduz/Desktop/Pratikler/datetime-math/bin/Debug/net6.0/datetime-math.deps.json
+/Users/anilduz/Desktop/Pratikler/datetime-math/bin/Debug/net6.0/datetime-math.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/datetime-math/bin/Debug/net6.0/datetime-math.dll
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.dll
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/refint/datetime-math.dll
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.pdb
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/datetime-math.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/datetime-math/obj/Debug/net6.0/ref/datetime-math.dll
