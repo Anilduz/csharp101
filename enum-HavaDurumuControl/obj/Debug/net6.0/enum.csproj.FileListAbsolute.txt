@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/enum/bin/Debug/net6.0/enum
+/Users/anilduz/Desktop/Pratikler/enum/bin/Debug/net6.0/enum.deps.json
+/Users/anilduz/Desktop/Pratikler/enum/bin/Debug/net6.0/enum.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/enum/bin/Debug/net6.0/enum.dll
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.dll
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/refint/enum.dll
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.pdb
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/enum.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/enum/obj/Debug/net6.0/ref/enum.dll
