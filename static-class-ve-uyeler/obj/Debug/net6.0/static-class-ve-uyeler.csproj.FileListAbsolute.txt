@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/bin/Debug/net6.0/static-class-ve-uyeler
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/bin/Debug/net6.0/static-class-ve-uyeler.deps.json
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/bin/Debug/net6.0/static-class-ve-uyeler.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/bin/Debug/net6.0/static-class-ve-uyeler.dll
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.dll
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/refint/static-class-ve-uyeler.dll
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.pdb
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/static-class-ve-uyeler.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/static-class-ve-uyeler/obj/Debug/net6.0/ref/static-class-ve-uyeler.dll
