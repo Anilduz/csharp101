@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/struct/bin/Debug/net6.0/struct
+/Users/anilduz/Desktop/Pratikler/struct/bin/Debug/net6.0/struct.deps.json
+/Users/anilduz/Desktop/Pratikler/struct/bin/Debug/net6.0/struct.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/struct/bin/Debug/net6.0/struct.dll
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.dll
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/refint/struct.dll
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.pdb
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/struct.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/struct/obj/Debug/net6.0/ref/struct.dll
