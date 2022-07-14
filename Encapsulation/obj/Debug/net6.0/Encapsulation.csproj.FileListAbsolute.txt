@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Encapsulation/bin/Debug/net6.0/Encapsulation
+/Users/anilduz/Desktop/Pratikler/Encapsulation/bin/Debug/net6.0/Encapsulation.deps.json
+/Users/anilduz/Desktop/Pratikler/Encapsulation/bin/Debug/net6.0/Encapsulation.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Encapsulation/bin/Debug/net6.0/Encapsulation.dll
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.dll
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/refint/Encapsulation.dll
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.pdb
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/Encapsulation.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Encapsulation/obj/Debug/net6.0/ref/Encapsulation.dll
