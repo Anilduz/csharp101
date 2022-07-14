@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/siniflar/bin/Debug/net6.0/siniflar
+/Users/anilduz/Desktop/Pratikler/siniflar/bin/Debug/net6.0/siniflar.deps.json
+/Users/anilduz/Desktop/Pratikler/siniflar/bin/Debug/net6.0/siniflar.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/siniflar/bin/Debug/net6.0/siniflar.dll
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.dll
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/refint/siniflar.dll
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.pdb
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/siniflar.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/siniflar/obj/Debug/net6.0/ref/siniflar.dll
