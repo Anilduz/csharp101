@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Contact-Project/bin/Debug/net6.0/Contact-Project
+/Users/anilduz/Desktop/Pratikler/Contact-Project/bin/Debug/net6.0/Contact-Project.deps.json
+/Users/anilduz/Desktop/Pratikler/Contact-Project/bin/Debug/net6.0/Contact-Project.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Contact-Project/bin/Debug/net6.0/Contact-Project.dll
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.dll
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/refint/Contact-Project.dll
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.pdb
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/Contact-Project.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Contact-Project/obj/Debug/net6.0/ref/Contact-Project.dll
