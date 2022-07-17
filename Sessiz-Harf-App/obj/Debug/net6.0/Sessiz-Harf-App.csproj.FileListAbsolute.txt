@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/bin/Debug/net6.0/Sessiz-Harf-App
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/bin/Debug/net6.0/Sessiz-Harf-App.deps.json
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/bin/Debug/net6.0/Sessiz-Harf-App.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/bin/Debug/net6.0/Sessiz-Harf-App.dll
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.dll
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/refint/Sessiz-Harf-App.dll
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.pdb
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/Sessiz-Harf-App.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Sessiz-Harf-App/obj/Debug/net6.0/ref/Sessiz-Harf-App.dll
