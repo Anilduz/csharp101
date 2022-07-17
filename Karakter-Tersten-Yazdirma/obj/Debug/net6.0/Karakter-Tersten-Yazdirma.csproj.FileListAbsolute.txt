@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/bin/Debug/net6.0/Karakter-Tersten-Yazdirma
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/bin/Debug/net6.0/Karakter-Tersten-Yazdirma.deps.json
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/bin/Debug/net6.0/Karakter-Tersten-Yazdirma.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/bin/Debug/net6.0/Karakter-Tersten-Yazdirma.dll
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.dll
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/refint/Karakter-Tersten-Yazdirma.dll
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.pdb
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/Karakter-Tersten-Yazdirma.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Karakter-Tersten-Yazdirma/obj/Debug/net6.0/ref/Karakter-Tersten-Yazdirma.dll
