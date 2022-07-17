@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/bin/Debug/net6.0/Ortalama-Hesaplama
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/bin/Debug/net6.0/Ortalama-Hesaplama.deps.json
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/bin/Debug/net6.0/Ortalama-Hesaplama.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/bin/Debug/net6.0/Ortalama-Hesaplama.dll
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.dll
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/refint/Ortalama-Hesaplama.dll
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.pdb
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/Ortalama-Hesaplama.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/Ortalama-Hesaplama/obj/Debug/net6.0/ref/Ortalama-Hesaplama.dll
