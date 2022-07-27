@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/alan-calculator/bin/Debug/net6.0/alan-calculator
+/Users/anilduz/Desktop/Pratikler/alan-calculator/bin/Debug/net6.0/alan-calculator.deps.json
+/Users/anilduz/Desktop/Pratikler/alan-calculator/bin/Debug/net6.0/alan-calculator.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/alan-calculator/bin/Debug/net6.0/alan-calculator.dll
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.dll
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/refint/alan-calculator.dll
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.pdb
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/alan-calculator.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/alan-calculator/obj/Debug/net6.0/ref/alan-calculator.dll
