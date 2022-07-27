@@ -1,0 +1,14 @@
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/bin/Debug/net6.0/mutlak-kare-console-app
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/bin/Debug/net6.0/mutlak-kare-console-app.deps.json
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/bin/Debug/net6.0/mutlak-kare-console-app.runtimeconfig.json
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/bin/Debug/net6.0/mutlak-kare-console-app.dll
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.csproj.AssemblyReference.cache
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.AssemblyInfoInputs.cache
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.AssemblyInfo.cs
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.csproj.CoreCompileInputs.cache
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.dll
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/refint/mutlak-kare-console-app.dll
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.pdb
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/mutlak-kare-console-app.genruntimeconfig.cache
+/Users/anilduz/Desktop/Pratikler/mutlak-kare-console-app/obj/Debug/net6.0/ref/mutlak-kare-console-app.dll
